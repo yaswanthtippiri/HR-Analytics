@@ -1,7 +1,7 @@
 # HR Analytics – Employee Attrition Analysis
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard-Screenshots/HR Analytics Dashboard Screenshot.png)
+![HR Analytics Dashboard](./Dashboard-Screenshots/HR%20Analytics%20Dashboard%20Screenshot.png)
 
 ## Project Overview
 The HR Analytics project focuses on analyzing employee data to understand workforce trends and identify the key factors influencing employee attrition.
